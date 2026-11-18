@@ -1,0 +1,7 @@
+﻿Metryka;Wynik
+Accuracy;85.00%
+Precision;99.64%
+Recall;65.12%
+F1-score;78.76%
+FP;2
+FN;300

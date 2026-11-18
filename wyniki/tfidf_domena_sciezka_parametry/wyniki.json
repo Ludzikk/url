@@ -1,0 +1,15 @@
+{
+    "model": "TF-IDF + Logistic Regression",
+    "features": "Domain + path/query",
+    "random_seed": 42,
+    "train_size": 7986,
+    "test_size": 2014,
+    "accuracy": 0.8520357497517378,
+    "precision": 0.9964664310954063,
+    "recall": 0.6558139534883721,
+    "f1_score": 0.791023842917251,
+    "FP": 2,
+    "FN": 296,
+    "TP": 564,
+    "TN": 1152
+}
